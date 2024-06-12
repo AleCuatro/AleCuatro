@@ -14,6 +14,9 @@
 
 <img src="https://i.imgur.com/OlRmqT8.gif" width="300" align="right" />
 <br/>
+<img src="https://i.imgur.com/LJ02f8h.png" width="500" />
+<br/>
+<br/>
 
 ## Discord
 <a href="https://discord.com/users/645097595391442944"  align="left">
