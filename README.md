@@ -12,7 +12,9 @@
 
 - Good with <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> TypeScript
 
-<img src="https://media.discordapp.net/attachments/1250242270158917653/1250599198777409606/Ins48690108409_d701a7f130f74aa3bd6e752c9808b2bf_An_fXLFkNv38N9dO3sSGSj1WUAEuqiwHQlypfFG5kMOEfFx94zgV1ZzrF_EeWpjzL93qgUB28agDW7RZxLKkmxuC.gif?ex=666b86c3&is=666a3543&hm=e3b2e8ad930a2520a4771261091e54b793d370c833f96abebb3db2a0e97c35c5&=&width=147&height=262" width="300" align="right" />
+<br/>
+<img src="https://media.discordapp.net/attachments/1250242270158917653/1250599198777409606/Ins48690108409_d701a7f130f74aa3bd6e752c9808b2bf_An_fXLFkNv38N9dO3sSGSj1WUAEuqiwHQlypfFG5kMOEfFx94zgV1ZzrF_EeWpjzL93qgUB28agDW7RZxLKkmxuC.gif" width="300" align="right" />
+<br/>
 <br/>
 <br/>
 
